@@ -1,0 +1,27 @@
+img {
+    float: right;
+    margin: 10px;
+    width: 300px;
+    height: auto;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 200px;
+    background-color: rgb(247, 247, 247);
+}
+
+h1 {
+    font-size: 80px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin: -10px;
+}
+
+p {
+    font-weight: lighter;
+    font-style: Arial;
+    color: rgb(82, 82, 82);
+}
